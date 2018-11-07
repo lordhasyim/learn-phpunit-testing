@@ -1,0 +1,13 @@
+composer.phar
+*.lock
+*.cache
+*.ignore
+*.log
+*.esproj
+/.vscode/
+.env
+mix-manifest.json
+/vendor/
+/.nyc_output/
+/coverage/
+/node_modules/
